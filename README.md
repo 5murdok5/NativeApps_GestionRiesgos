@@ -1,6 +1,6 @@
 # gestionriesgos
 
-A new Flutter project.
+App de Gestion de Riesgos para registro de informacion el Local Storage.
 
 ## Getting Started
 
