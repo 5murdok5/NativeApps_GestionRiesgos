@@ -1,6 +1,15 @@
 # gestionriesgos
 
-App de Gestion de Riesgos para registro de informacion el Local Storage.
+App de Gestion de Riesgos para registro de informacion.
+
+## Funciones
+ - Provider State Manager
+ - Local Storage
+ - Captura de Cámara e imágenes
+ - Recuperación de información en local storage
+ - Proceso de inicio de Sesión
+ - Ui Login
+ - Ui Home
 
 ## Getting Started
 
